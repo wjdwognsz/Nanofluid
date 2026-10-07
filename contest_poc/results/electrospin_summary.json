@@ -1,0 +1,18 @@
+{
+ "n_wv_converted": 74,
+ "wv_conversion_median_rel_change": 0.03305785123966946,
+ "rh_ranges_converted": 68,
+ "n_used": 777,
+ "matched_pairs_same_paper": 1536,
+ "matched_pairs_diff_paper": 51,
+ "same_paper_median_abs_dlog10D": 0.0009401012761647287,
+ "same_paper_median_fold": 1.0021670077591855,
+ "same_paper_rms_dlog10D_over_sqrt2": 0.16867034397831154,
+ "diff_paper_median_abs_dlog10D": 0.1900028446378066,
+ "diff_paper_median_fold": 1.5488267637264783,
+ "diff_paper_rms_dlog10D_over_sqrt2": 0.14772011750894606,
+ "rmse_random5fold": 0.18183786303455682,
+ "rmse_leave_paper_out_5group": 0.3461704994295724,
+ "rmse_leave_polymer_out": 0.39028336065980773,
+ "rmse_predict_mean": 0.34477095885893533
+}
