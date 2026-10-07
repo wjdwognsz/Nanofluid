@@ -243,6 +243,7 @@
 - 시험법·소재 계열이 늘어도 같은 틀(감사 → 분해 → 기준시료 → 기탁)을 그대로 씁니다.
 - 염색 견뢰도(ISO 105 계열 반급 등급), 인장(KS K ISO 13934), 공기투과도(ISO 9237)로 확장할 수 있습니다.
 - 기업 원자료 대신 기준시료 요약통계만 공유하는 방식(연합식)과도 호환됩니다.
+- 시험법 카드가 비어 있는 과거 문헌은 Methods 텍스트를 메타데이터 대리로 쓰는 방식(DATUM의 발상)으로 보완할 수 있습니다. 다만 이는 신규 모델 개발이 필요하므로 장기 확장으로 둡니다.
 
 ### 한계
 - 방법론 요소는 모두 기존 기법입니다. ISO 5725, 계층 베이지안 실험실 효과, 검량 이전(calibration transfer), 그룹 교차검증이 그렇습니다. 새로운 것은 섬유 데이터에의 적용과 운영 규칙화입니다.
@@ -267,6 +268,9 @@
 | 선행 | 이미 한 것 | 이 컨셉의 차별점 |
 |---|---|---|
 | Klamt et al. 2026, arXiv 2605.11764 (PROTAC) | 중첩 분산분석으로 실험실 분산 분리(ω²=0.42), 실험실간 성능 상한, k=5 재보정 | 개념이 거의 같으나 분야가 다름. 섬유 시험데이터와 플랫폼 합류 규칙으로 적용하는 것이 차이 |
+| **DATUM(KIST 계산과학연구센터, 2026; github.com/KIST-CSRC/DATUM, 논문 게재 상태 미확인)** | 문헌의 나노소재 합성 결과를 목표 실험실 측정값으로 옮기는 '실험실 인식 조화'. Methods 텍스트를 메타데이터 대리로 쓰고, co-attention과 flow matching을 사용. 문제의식('수치상 같은 조건이라도 실험실마다 결과가 다름')이 같음 | DATUM은 새 딥러닝 모델이고 목표 실험실 측정을 대량으로 요구함. 이 컨셉은 신규 모델 없이 ① 감사 ② 출처 분산 분해 ③ 기준점 k=3~5 합류 규칙 ④ 실패 기탁으로 구성된 운영 프로토콜이며, 섬유 시험데이터를 대상으로 함. 국내 선행이므로 반드시 인용하고, 'Methods 텍스트 활용'은 확장 아이디어로 차용 |
+| Liu G. et al., Open Polymer Challenge 사후 보고서, arXiv 2512.08896 (2025) | NeurIPS 2025 고분자 대회에서 생성 그룹 간 Tg 적합법 차이로 평균 Tg가 102.9→179.8 °C로 이동. K↔°C 단위 오류도 보고. 상위 팀은 데이터셋별 선형·오프셋 보정으로 대응 | '출처를 조화하지 않으면 무엇이 깨지는가'에 대한 외부 실증. 이 컨셉의 동기를 뒷받침 |
+| Alosious S. et al., ADEPT–PolyGraphMT, Digital Discovery 2026 (IF 5.6; arXiv 2603.27106) | 실험·MD·DFT·그룹기여 다중충실도 데이터 약 6.2만 개, 충실도별 선형 보정(MD Cp 오차 89% 감소) | 고분자 '구조 수준' 조화. 이 컨셉은 '섬유·공정·시험법 수준'과 출처 운영 규칙 |
 | Park, Howe, Sholl, Chem. Mater. 2017 (IF 7.0) | 문헌 메타분석으로 MOF 등온선 재현성 평가(약 20% 이상치) | 문헌 기반 '가상 라운드로빈'의 선례. 섬유·전기방사·염색에 적용, 기준시료 프로토콜 추가 |
 | Crusius et al., Faraday Discuss. 2025 (IF 3.1) / Landrum & Riniker, JCIM 2024 (IF 5.3) | 노이즈 천장, 출처 간 노이즈(IC50 R² 0.31) | 섬유 데이터셋 카드에 품질 라벨로 제도화 |
 | Jablonka 2026, arXiv 2602.17730 / Wang et al. 2026, arXiv 2609.01621 | 서지 정보로 성능 흉내내기 경고, 문헌 데이터의 구조적 라벨 노이즈 | 섬유 데이터에서 실측, 감사 규칙과 합류 규칙으로 연결 |
@@ -277,7 +281,7 @@
 | Mahdian et al., Electrospinning-Data.org, arXiv 2603.27841 (2026) | 실패 포함 FAIR 전기방사 DB와 스키마 | 편향의 정량화와 보정이 없음. 이 플랫폼의 데이터를 쓰거나 협업하는 보완 관계로 서술 |
 | AATCC PTP7(MMT 숙련도시험, 세부 미확인) / KOLAS 숙련도시험 | 계획된 공통시료 비교 | 사후 감사와 합류 규칙. 이미 쌓인 데이터의 재활용 |
 
-**정직한 결론**: 방법론의 새로움은 낮습니다(심사관 평가 3.3/5, 반박 조사 "응용 수준 기여"). 대회의 취지인 "섬유 연구 과정에서 쌓인 소재데이터의 새로운 활용가치"에는 맞습니다. 그러나 논문화(IF 5 이상)하려면 물리 기준시료로 한 전향적 검증과 다시험법 실측 데이터가 필요합니다.
+**정직한 결론**: 가장 가까운 선행은 두 가지입니다. 하나는 국내 KIST의 DATUM(문헌 데이터의 실험실 인식 조화)이고, 다른 하나는 PROTAC 분야의 Klamt 2026(실험실 분산과 k점 재보정)입니다. 방법론의 새로움은 낮습니다(심사관 평가 3.3/5, 반박 조사 "응용 수준 기여"). 대회의 취지인 "섬유 연구 과정에서 쌓인 소재데이터의 새로운 활용가치"에는 맞습니다. 그러나 논문화(IF 5 이상)하려면 물리 기준시료로 한 전향적 검증과 다시험법 실측 데이터가 필요합니다.
 
 ### 6.2 가장 치명적인 약점 3가지와 대응
 1. **'출처 효과'가 실험실 편향인지, 미보고 변수와 탐색 영역 차이(공변량 이동)인지 분리되지 않습니다.**
@@ -610,6 +614,13 @@
 33. Brooks H.L., Tucker N., "Electrospinning predictions using artificial neural networks," *Polymer* 58, 22 (2015). doi:10.1016/j.polymer.2014.12.046 — IF 확인 필요
 34. Tan B. et al., "Transitive Transfer Learning," KDD 2015. doi:10.1145/2783258.2783295(학회)
 35. Ghorbani A., Zou J., "Data Shapley," ICML 2019. arXiv:1904.02868(학회)
+
+### 12.2-추가 (데이터 지형 누락 보완 단계에서 확인)
+- Kim N. (KIST CSRC), "Multimodal Flow Matching for Laboratory-Aware Harmonization of Multi-Source Nanomaterials Synthesis Data Extracted from the Literature" (2026). 코드 github.com/KIST-CSRC/DATUM(접속 확인). 논문 게재 상태와 IF는 확인 필요. **가장 가까운 국내 선행**
+- Alosious S. et al., "ADEPT–PolyGraphMT: Automated Molecular Simulation and Multi-Task Multi-Fidelity Machine Learning for Polymer Property Generation and Prediction," *Digital Discovery* (2026), arXiv 2603.27106 — IF 5.6
+- Liu G. et al., "Open Polymer Challenge: Post-Competition Report," arXiv 2512.08896 (2025)
+- Grillo·Weder 외, Janus/일방향 수분이동 리뷰, *ACS Appl. Polym. Mater.* 8, 6050 (2026). doi:10.1021/acsapm.6c00561 — IF 확인 필요(PubMed 색인으로만 확인)
+- Kuklane K. et al., 소방복 열저항·증발저항(Ret) DB, *Biology* 11, 1813 (2022). doi:10.3390/biology11121813 — IF 확인 필요. 소규모 공개 Ret 데이터
 
 ### 12.3 프리프린트 (동료심사 전, 인용 시 그렇게 표시)
 36. Klamt T., Nejdl W., Tang M., "Decomposing the generalization gap in PROTAC activity prediction: variance attribution and the inter-laboratory ceiling," arXiv:2605.11764 (2026). **가장 가까운 개념적 선행**
