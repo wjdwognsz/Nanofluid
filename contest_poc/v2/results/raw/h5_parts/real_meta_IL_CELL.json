@@ -1,0 +1,31 @@
+{
+ "dataset": "IL_CELL",
+ "n": 674,
+ "n_sources": 33,
+ "flags": {
+  "R1": 0,
+  "R1_y": 0,
+  "R1_T": 0,
+  "R2": 24,
+  "R2a": 24,
+  "R2b": 0,
+  "R3": 7,
+  "R4": 0,
+  "R12": 24,
+  "any": 31
+ },
+ "detail": {
+  "family": "IL_CELL",
+  "r4": {},
+  "r1_y_range": null,
+  "r1_temp_cols": [
+   [
+    "T",
+    "C",
+    null
+   ]
+  ]
+ },
+ "leak_rows_total": 7,
+ "sec": 51.1
+}

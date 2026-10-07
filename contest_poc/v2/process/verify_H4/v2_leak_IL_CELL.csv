@@ -1,0 +1,20 @@
+dataset,source,n_rows,n_leak_mine,n_leak_h4,n_train_mine,n_train_h4,n_nearcopy_train_rows,n_heldout_rows_with_nearcopy,n_heldout_rows_with_Xdup_in_train,n_heldout_rows_with_Xdup_and_same_y_in_train,n_rows_in_repeated_key_within_source,n_rows_identical_key_and_y_within_source,n_rows_in_repeated_X_within_source
+IL_CELL,Baek et al. / Journal of Molecular Liquids 234 (2017) 111â€“116,12,0,0,662,662,0,0,0,0,0,0,0
+IL_CELL,"Biotechnology and Bioengineering, Vol. 112, No. 1, January, 2015",21,3,3,650,650,0,0,0,0,2,2,2
+IL_CELL,Carbohydrate Polymers 229 (2020) 115594,11,0,0,663,663,0,0,0,0,0,0,6
+IL_CELL,"ChemSusChem 2012, 5, 388 â€“ 391",28,0,0,646,646,0,0,0,0,0,0,2
+IL_CELL,European Polymer Journal 92 (2017) 204â€“212,8,0,0,666,666,0,0,0,0,2,2,2
+IL_CELL,"Green Chem., 2008, 10, 696â€“705",31,0,0,643,643,0,0,1,0,0,0,0
+IL_CELL,"Green Chem., 2009,11, 417-424",33,0,0,641,641,0,0,0,0,0,0,0
+IL_CELL,"Green Chem., 2010, 12, 268â€“275",32,0,0,642,642,0,0,0,0,0,0,0
+IL_CELL,"Green Chem., 2012, 14, 304â€“307",15,4,4,655,655,0,0,0,0,0,0,2
+IL_CELL,"Green Chem., 2014, 16,1326",117,0,0,557,557,1,1,1,0,0,0,0
+IL_CELL,I. GrÃ¸ssereid et al. / Journal of Molecular Liquids 292 (2019) 111353,16,0,0,658,658,0,0,0,0,0,0,0
+IL_CELL,"Ind. Eng. Chem. Res. 2010, 49, 11809â€“11813",8,0,0,666,666,0,0,0,0,0,0,0
+IL_CELL,"Macromolecules 2018, 51, 4158âˆ’4166",84,0,0,590,590,0,0,0,0,0,0,0
+IL_CELL,"Macromolecules 2020, 53, 3284âˆ’3295",59,0,0,615,615,0,0,0,0,0,0,0
+IL_CELL,"Phys. Chem. Chem. Phys., 2015, 17, 32276--32282",10,0,0,664,664,0,0,0,0,4,4,4
+IL_CELL,"RSC Adv., 2012, 2, 2476â€“2479",45,0,0,629,629,0,0,0,0,0,0,0
+IL_CELL,"RSC Adv., 2012, 2, 8429â€“8438",19,0,0,655,655,0,0,0,0,0,0,0
+IL_CELL,"Sci China Chem, 2016, 59: 1421â€“1429",13,0,0,661,661,0,0,0,0,0,0,0
+IL_CELL,Y. Zhang et al. / Carbohydrate Polymers 117 (2015) 666â€“672,49,0,0,625,625,0,0,0,0,0,0,0

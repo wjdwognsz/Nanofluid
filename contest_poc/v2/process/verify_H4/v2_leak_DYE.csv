@@ -1,0 +1,5 @@
+dataset,source,n_rows,n_leak_mine,n_leak_h4,n_train_mine,n_train_h4,n_nearcopy_train_rows,n_heldout_rows_with_nearcopy,n_heldout_rows_with_Xdup_in_train,n_heldout_rows_with_Xdup_and_same_y_in_train,n_rows_in_repeated_key_within_source,n_rows_identical_key_and_y_within_source,n_rows_in_repeated_X_within_source
+DYE,Lab,70,0,0,61,61,0,0,0,0,0,0,0
+DYE,[11],9,0,0,122,122,0,0,0,0,0,0,0
+DYE,[5],10,0,0,121,121,0,0,0,0,0,0,0
+DYE,[9],11,0,0,120,120,0,0,0,0,0,0,0

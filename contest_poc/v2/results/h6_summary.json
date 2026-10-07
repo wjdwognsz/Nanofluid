@@ -1,0 +1,536 @@
+{
+ "H6a": {
+  "DES_RHO": {
+   "dataset": "DES_RHO",
+   "rmse_keep": 0.039887468297561776,
+   "rmse_rm": 0.0529864432317393,
+   "change": -0.24721370477517046,
+   "ci": [
+    -0.38604167331199657,
+    -0.04252365296163325
+   ],
+   "per_seed_change": [
+    -0.25302516333687475,
+    -0.2577523045899448,
+    -0.23649085122610258,
+    -0.22521514516399244,
+    -0.2646109500024927
+   ],
+   "n_sources": 132,
+   "n_affected_sources": 115,
+   "n_rows": 6937,
+   "n_rows_of_affected_sources": 6716,
+   "n_leak_rows_total": 3982,
+   "affected_mean_change": -0.2363035198048555,
+   "affected_mean_change_ci": [
+    -0.28916439160126106,
+    -0.18559164058993197
+   ],
+   "affected_rows_pooled_change": -0.27435003255210766,
+   "all_sources_mean_change": -0.2062195231914006,
+   "frac_affected_improved_by_copies": 0.8434782608695652,
+   "meets_rule": true
+  },
+  "DES_ETA": {
+   "dataset": "DES_ETA",
+   "rmse_keep": 0.597352714634718,
+   "rmse_rm": 0.6081986004455544,
+   "change": -0.017832802974046547,
+   "ci": [
+    -0.0413724541112489,
+    -0.00403671952506599
+   ],
+   "per_seed_change": [
+    -0.02150460986370817,
+    -0.014824739536756337,
+    -0.012150083271035617,
+    -0.018815859863735684,
+    -0.021831179157583813
+   ],
+   "n_sources": 114,
+   "n_affected_sources": 15,
+   "n_rows": 5789,
+   "n_rows_of_affected_sources": 2708,
+   "n_leak_rows_total": 514,
+   "affected_mean_change": -0.20775108296983932,
+   "affected_mean_change_ci": [
+    -0.37375917702303385,
+    -0.06912193270515005
+   ],
+   "affected_rows_pooled_change": -0.07700264585861338,
+   "all_sources_mean_change": -0.019019623066950778,
+   "frac_affected_improved_by_copies": 0.8666666666666667,
+   "meets_rule": false
+  },
+  "DES_MP": {
+   "dataset": "DES_MP",
+   "rmse_keep": 45.44497349632066,
+   "rmse_rm": 45.572123291847426,
+   "change": -0.0027900783712115906,
+   "ci": [
+    -0.009157726577423272,
+    0.003954414272198535
+   ],
+   "per_seed_change": [
+    -0.00412207815326282,
+    0.005067715877721257,
+    -0.0064725841770615355,
+    -0.0028237998378036755,
+    -0.005539519374990198
+   ],
+   "n_sources": 115,
+   "n_affected_sources": 11,
+   "n_rows": 3390,
+   "n_rows_of_affected_sources": 336,
+   "n_leak_rows_total": 20,
+   "affected_mean_change": -0.15026110283772914,
+   "affected_mean_change_ci": [
+    -0.2878435380573939,
+    -0.04342272494817478
+   ],
+   "affected_rows_pooled_change": -0.050912726461148416,
+   "all_sources_mean_change": -0.008173574209401287,
+   "frac_affected_improved_by_copies": 0.7272727272727273,
+   "meets_rule": false
+  },
+  "IL_CELL": {
+   "dataset": "IL_CELL",
+   "rmse_keep": 6.469399261452741,
+   "rmse_rm": 6.469611055801508,
+   "change": -3.273679776727434e-05,
+   "ci": [
+    -0.001217853470002378,
+    0.0012369665685697398
+   ],
+   "per_seed_change": [
+    -0.0012939558860827205,
+    -0.00079083919437406,
+    0.0019043005340704244,
+    0.0004671454147182619,
+    -0.00045170402534278065
+   ],
+   "n_sources": 33,
+   "n_affected_sources": 2,
+   "n_rows": 674,
+   "n_rows_of_affected_sources": 36,
+   "n_leak_rows_total": 7,
+   "affected_mean_change": -0.3141571011332542,
+   "affected_mean_change_ci": [
+    -0.5372387216511865,
+    -0.09107548061532189
+   ],
+   "affected_rows_pooled_change": -0.1467291517797279,
+   "all_sources_mean_change": -0.01984233311018862,
+   "frac_affected_improved_by_copies": 1.0,
+   "meets_rule": false
+  },
+  "DYE": {
+   "dataset": "DYE",
+   "rmse_keep": 29.719085399442186,
+   "rmse_rm": 30.109988431663407,
+   "change": -0.01298250356716013,
+   "ci": [
+    -0.08021069515884555,
+    0.0
+   ],
+   "per_seed_change": [
+    -0.012617830554973564,
+    -0.010512177480812013,
+    -0.015314801110192788,
+    -0.014556019381753105,
+    -0.011903657917906152
+   ],
+   "n_sources": 12,
+   "n_affected_sources": 2,
+   "n_rows": 131,
+   "n_rows_of_affected_sources": 10,
+   "n_leak_rows_total": 4,
+   "affected_mean_change": -0.22146698364922957,
+   "affected_mean_change_ci": [
+    -0.23826644818156628,
+    -0.20466751911689285
+   ],
+   "affected_rows_pooled_change": -0.22834512569141552,
+   "all_sources_mean_change": -0.03691116394153826,
+   "frac_affected_improved_by_copies": 1.0,
+   "meets_rule": false
+  },
+  "ES1": {
+   "dataset": "ES1",
+   "rmse_keep": 0.3329054678086346,
+   "rmse_rm": 0.3329054678086346,
+   "change": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ],
+   "per_seed_change": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "n_sources": 54,
+   "n_affected_sources": 0,
+   "n_rows": 777,
+   "n_rows_of_affected_sources": 0,
+   "n_leak_rows_total": 0,
+   "affected_mean_change": NaN,
+   "affected_mean_change_ci": [
+    NaN,
+    NaN
+   ],
+   "affected_rows_pooled_change": NaN,
+   "all_sources_mean_change": 0.0,
+   "frac_affected_improved_by_copies": NaN,
+   "meets_rule": false
+  },
+  "ES2": {
+   "dataset": "ES2",
+   "rmse_keep": 0.5517152398681768,
+   "rmse_rm": 0.5517152398681768,
+   "change": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ],
+   "per_seed_change": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "n_sources": 28,
+   "n_affected_sources": 0,
+   "n_rows": 267,
+   "n_rows_of_affected_sources": 0,
+   "n_leak_rows_total": 0,
+   "affected_mean_change": NaN,
+   "affected_mean_change_ci": [
+    NaN,
+    NaN
+   ],
+   "affected_rows_pooled_change": NaN,
+   "all_sources_mean_change": 0.0,
+   "frac_affected_improved_by_copies": NaN,
+   "meets_rule": false
+  }
+ },
+ "H6b": {
+  "DES_RHO": {
+   "rmse_raw": 0.01991682547141164,
+   "rmse_clean": 0.023653599445054522,
+   "rmse_raw_noncopy": 0.022800966379033942,
+   "rmse_raw_copy": 0.0093225027711083,
+   "n_raw": 6937,
+   "n_clean": 4962,
+   "n_copy_rows": 1975,
+   "change_raw_vs_clean": -0.1579790840004337,
+   "change_raw_noncopy_vs_clean": -0.03604665192716994,
+   "per_seed_change": [
+    -0.16507872292151293,
+    -0.17130280411055043,
+    -0.15501132255605898,
+    -0.14748148597820587,
+    -0.1511649616665689
+   ]
+  },
+  "DES_ETA": {
+   "rmse_raw": 0.2333694309504532,
+   "rmse_clean": 0.23802261714407585,
+   "rmse_raw_noncopy": 0.23812771123379103,
+   "rmse_raw_copy": 0.07367320586754293,
+   "n_raw": 5789,
+   "n_clean": 5533,
+   "n_copy_rows": 256,
+   "change_raw_vs_clean": -0.01954934471964931,
+   "change_raw_noncopy_vs_clean": 0.0004415298469371276,
+   "per_seed_change": [
+    -0.03403436679051364,
+    -0.021376861113304835,
+    -0.015374978901462444,
+    -0.004369836823316597,
+    -0.02242502659927892
+   ]
+  },
+  "DES_MP": {
+   "rmse_raw": 18.56587627378604,
+   "rmse_clean": 18.560896232166662,
+   "rmse_raw_noncopy": 18.575286372361138,
+   "rmse_raw_copy": 14.552683979005513,
+   "n_raw": 3390,
+   "n_clean": 3380,
+   "n_copy_rows": 10,
+   "change_raw_vs_clean": 0.00026830825177204254,
+   "change_raw_noncopy_vs_clean": 0.0007752933917888338,
+   "per_seed_change": [
+    0.004609945451995223,
+    0.0013981424551146038,
+    -0.0028828955193458405,
+    0.005852992193412954,
+    -0.007815404934640724
+   ]
+  },
+  "IL_CELL": {
+   "rmse_raw": 4.159649086042642,
+   "rmse_clean": 4.148113676444912,
+   "rmse_raw_noncopy": 4.172045397409211,
+   "rmse_raw_copy": 0.04802755837054962,
+   "n_raw": 674,
+   "n_clean": 670,
+   "n_copy_rows": 4,
+   "change_raw_vs_clean": 0.002780880780397732,
+   "change_raw_noncopy_vs_clean": 0.005769302104760454,
+   "per_seed_change": [
+    0.016639060072425105,
+    -0.00020272051254266454,
+    0.011012350577175312,
+    0.0164211260445164,
+    -0.029453464896685544
+   ]
+  },
+  "DYE": {
+   "rmse_raw": 22.327758049426134,
+   "rmse_clean": 22.22661260311891,
+   "rmse_raw_noncopy": 22.494091686124253,
+   "rmse_raw_copy": 4.164064874916325,
+   "n_raw": 131,
+   "n_clean": 129,
+   "n_copy_rows": 2,
+   "change_raw_vs_clean": 0.004550646025702987,
+   "change_raw_noncopy_vs_clean": 0.01203418117647903,
+   "per_seed_change": [
+    -0.02271896576518939,
+    -0.022725271043189554,
+    0.038063079543719125,
+    0.03146317295082168,
+    0.0010257098113195529
+   ]
+  }
+ },
+ "H6c": {
+  "doi_exact": {
+   "n_es1_only_distinct_conditions": 10,
+   "n_es1_only_duplicating_a_matched_row": 3,
+   "n_papers": 14,
+   "n_es1_rows": 141,
+   "n_es2_rows": 104,
+   "n_matched": 97,
+   "n_es1_only": 44,
+   "n_es2_only": 7,
+   "n_matched_with_wildcard": 0,
+   "n_matched_both_D": 90,
+   "identical_rate": 1.0,
+   "n_identical": 90,
+   "identical_rate_unambiguous": 1.0,
+   "n_unambiguous_both_D": 56,
+   "n_ambiguous_ties": 34,
+   "median_abs_dlog10D": 0.0,
+   "mean_abs_dlog10D": 0.0,
+   "max_abs_dlog10D": 0.0,
+   "n_nonidentical": 0,
+   "median_abs_dlog10D_nonidentical": NaN,
+   "n_value_in_one_db_only": 0,
+   "n_es1_unstable_matched": 7,
+   "n_es1_unstable_matched_es2_D_missing": 7,
+   "n_matched_es1_conc_wv_vs_es2_wt_label": 13,
+   "n_matched_solvent_set_mismatch": 1,
+   "n_es1_internal_duplicate_rows": 41,
+   "per_paper": {
+    "10.1002/app.21762": {
+     "ES1_only": 0,
+     "ES2_only": 6,
+     "matched": 4
+    },
+    "10.1002/app.42304": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 9
+    },
+    "10.1002/marc.200700544": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 4
+    },
+    "10.1007/s10965-014-0571-8": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 21
+    },
+    "10.1007/s40204-017-0071-0": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 15
+    },
+    "10.1016/j.matlet.2015.08.003": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 5
+    },
+    "10.1016/j.memsci.2013.01.023": {
+     "ES1_only": 41,
+     "ES2_only": 0,
+     "matched": 7
+    },
+    "10.1016/j.memsci.2018.06.050": {
+     "ES1_only": 3,
+     "ES2_only": 0,
+     "matched": 3
+    },
+    "10.1016/j.polymertesting.2019.106218": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 3
+    },
+    "10.1021/acsami.0c02578": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 2
+    },
+    "10.1080/1539445x.2010.495630": {
+     "ES1_only": 0,
+     "ES2_only": 1,
+     "matched": 12
+    },
+    "10.1088/1748-6041/8/4/045007": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 5
+    },
+    "10.1515/epoly-2018-0037": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 5
+    },
+    "10.3390/fib8100065": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 2
+    }
+   }
+  },
+  "plus_manual": {
+   "n_es1_only_distinct_conditions": 10,
+   "n_es1_only_duplicating_a_matched_row": 3,
+   "n_papers": 16,
+   "n_es1_rows": 154,
+   "n_es2_rows": 117,
+   "n_matched": 110,
+   "n_es1_only": 44,
+   "n_es2_only": 7,
+   "n_matched_with_wildcard": 0,
+   "n_matched_both_D": 103,
+   "identical_rate": 1.0,
+   "n_identical": 103,
+   "identical_rate_unambiguous": 1.0,
+   "n_unambiguous_both_D": 65,
+   "n_ambiguous_ties": 38,
+   "median_abs_dlog10D": 0.0,
+   "mean_abs_dlog10D": 0.0,
+   "max_abs_dlog10D": 0.0,
+   "n_nonidentical": 0,
+   "median_abs_dlog10D_nonidentical": NaN,
+   "n_value_in_one_db_only": 0,
+   "n_es1_unstable_matched": 7,
+   "n_es1_unstable_matched_es2_D_missing": 7,
+   "n_matched_es1_conc_wv_vs_es2_wt_label": 22,
+   "n_matched_solvent_set_mismatch": 1,
+   "n_es1_internal_duplicate_rows": 41,
+   "per_paper": {
+    "10.1002/app.21762": {
+     "ES1_only": 0,
+     "ES2_only": 6,
+     "matched": 4
+    },
+    "10.1002/app.42304": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 9
+    },
+    "10.1002/marc.200700544": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 4
+    },
+    "10.1007/s10965-014-0571-8": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 21
+    },
+    "10.1007/s40204-017-0071-0": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 15
+    },
+    "10.1016/j.matlet.2015.08.003": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 5
+    },
+    "10.1016/j.memsci.2013.01.023": {
+     "ES1_only": 41,
+     "ES2_only": 0,
+     "matched": 7
+    },
+    "10.1016/j.memsci.2018.06.050": {
+     "ES1_only": 3,
+     "ES2_only": 0,
+     "matched": 3
+    },
+    "10.1016/j.polymertesting.2019.106218": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 3
+    },
+    "10.1021/acsami.0c02578": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 2
+    },
+    "10.1080/1539445x.2010.495630": {
+     "ES1_only": 0,
+     "ES2_only": 1,
+     "matched": 12
+    },
+    "10.1088/1748-6041/8/4/045007": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 5
+    },
+    "10.1109/nano.2013.6720964": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 4
+    },
+    "10.1515/epoly-2018-0037": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 5
+    },
+    "10.3390/fib8100065": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 2
+    },
+    "https://www.researchgate.net/profile/dhananjay-pise/publication/277816900_study_of_process_parameters_affecting_the_diameter_and_morphology_of_electrospun_polyvinylidene_fluoride_pvdf_nanofibers/links/55751b5c08aeacff1ffcc4a8/study-of-process-parameters-affecting-the-diameter-and-morphology-of-electrospun-polyvinylidene-fluoride-pvdf-nanofibers.pdf": {
+     "ES1_only": 0,
+     "ES2_only": 0,
+     "matched": 9
+    }
+   }
+  }
+ },
+ "hypothesis": "H6",
+ "prereg": "PREREG.md section 2 H6",
+ "H6a_verdict": "PASS",
+ "H6a_n_meeting": 1,
+ "H6_overall": "PASS",
+ "tolerances_H6c": {
+  "c": 0.5,
+  "V": 0.5,
+  "L": 0.5,
+  "Qrel": 0.1
+ }
+}

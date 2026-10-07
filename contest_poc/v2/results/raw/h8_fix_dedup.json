@@ -1,0 +1,85 @@
+{
+ "p_exp_H2O": {
+  "n_before": 27,
+  "n_after": 27,
+  "merged": []
+ },
+ "s_exp_H2O": {
+  "n_before": 25,
+  "n_after": 25,
+  "merged": []
+ },
+ "d_exp_H2O": {
+  "n_before": 45,
+  "n_after": 45,
+  "merged": []
+ },
+ "s_exp_He": {
+  "n_before": 38,
+  "n_after": 38,
+  "merged": []
+ },
+ "s_exp_H2": {
+  "n_before": 36,
+  "n_after": 36,
+  "merged": []
+ },
+ "d_exp_He": {
+  "n_before": 51,
+  "n_after": 51,
+  "merged": []
+ },
+ "d_exp_H2": {
+  "n_before": 51,
+  "n_after": 50,
+  "merged": [
+   {
+    "identity": "*C(C)=C(*)[Si](C)(C)C",
+    "kept_key": "*C(C)=C(*)[Si](C)(C)C",
+    "merged_keys": [
+     "*C(C)=C(*)[Si](C)(C)C",
+     "*/C(C)=C(/*)[Si](C)(C)C"
+    ],
+    "y_values": [
+     -3.585026652,
+     -3.744727495
+    ],
+    "y_mean": -3.6648770734999996
+   }
+  ]
+ },
+ "s_exp_CO2": {
+  "n_before": 125,
+  "n_after": 125,
+  "merged": []
+ },
+ "d_exp_CO2": {
+  "n_before": 151,
+  "n_after": 150,
+  "merged": [
+   {
+    "identity": "*C(C)=C(*)[Si](C)(C)C",
+    "kept_key": "*C(C)=C(*)[Si](C)(C)C",
+    "merged_keys": [
+     "*C(C)=C(*)[Si](C)(C)C",
+     "*/C(C)=C(/*)[Si](C)(C)C"
+    ],
+    "y_values": [
+     -4.48148606,
+     -4.630784143
+    ],
+    "y_mean": -4.5561351015
+   }
+  ]
+ },
+ "p_exp_CO2_sub40": {
+  "n_before": 40,
+  "n_after": 40,
+  "merged": []
+ },
+ "p_exp_N2_sub40": {
+  "n_before": 40,
+  "n_after": 40,
+  "merged": []
+ }
+}

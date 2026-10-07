@@ -1,0 +1,34 @@
+{"target": "d_exp_He", "repeat": 3, "n": 51, "n_real": 36, "n_perm": 10, "source_fits": 210, "sec_source": 81.1, "sec_total": 162.3}
+done seed:d_exp_He:3 162 s
+{"target": "d_exp_He", "repeat": 4, "n": 51, "n_real": 36, "n_perm": 10, "source_fits": 210, "sec_source": 67.9, "sec_total": 149.3}
+done seed:d_exp_He:4 149 s
+{"target": "d_exp_He", "repeat": 0, "n": 51, "n_real": 36, "n_perm": 10, "source_fits": 209, "sec_source": 64.6, "sec_total": 144.3}
+done featex:d_exp_He:0 144 s
+{"target": "d_exp_He", "repeat": 1, "n": 51, "n_real": 36, "n_perm": 10, "source_fits": 210, "sec_source": 67.1, "sec_total": 148.9}
+done featex:d_exp_He:1 149 s
+{"target": "d_exp_He", "repeat": 2, "n": 51, "n_real": 36, "n_perm": 10, "source_fits": 210, "sec_source": 66.8, "sec_total": 151.4}
+done featex:d_exp_He:2 151 s
+{"target": "s_exp_H2", "repeat": 3, "n": 36, "n_real": 36, "n_perm": 10, "source_fits": 214, "sec_source": 67.8, "sec_total": 152.6}
+done seed:s_exp_H2:3 153 s
+{"target": "s_exp_H2", "repeat": 4, "n": 36, "n_real": 36, "n_perm": 10, "source_fits": 214, "sec_source": 71.6, "sec_total": 154.9}
+done seed:s_exp_H2:4 155 s
+{"target": "s_exp_He", "repeat": 3, "n": 38, "n_real": 36, "n_perm": 10, "source_fits": 210, "sec_source": 67.8, "sec_total": 149.3}
+done seed:s_exp_He:3 149 s
+{"target": "s_exp_He", "repeat": 4, "n": 38, "n_real": 36, "n_perm": 10, "source_fits": 206, "sec_source": 65.8, "sec_total": 147.6}
+done seed:s_exp_He:4 148 s
+{"target": "d_exp_H2", "repeat": 0, "n": 51, "n_real": 36, "n_perm": 10, "source_fits": 213, "sec_source": 67.7, "sec_total": 150.3}
+done featex:d_exp_H2:0 150 s
+{"target": "d_exp_H2", "repeat": 1, "n": 51, "n_real": 36, "n_perm": 10, "source_fits": 211, "sec_source": 66.5, "sec_total": 147.5}
+done featex:d_exp_H2:1 148 s
+{"target": "d_exp_H2", "repeat": 2, "n": 51, "n_real": 36, "n_perm": 10, "source_fits": 213, "sec_source": 67.3, "sec_total": 150.1}
+done featex:d_exp_H2:2 150 s
+{"target": "d_exp_CO2", "repeat": 0, "n": 151, "n_real": 36, "n_perm": 10, "source_fits": 214, "sec_source": 68.2, "sec_total": 151.5}
+done featex:d_exp_CO2:0 152 s
+{"target": "d_exp_CO2", "repeat": 1, "n": 151, "n_real": 36, "n_perm": 10, "source_fits": 214, "sec_source": 68.0, "sec_total": 150.5}
+done featex:d_exp_CO2:1 150 s
+{"target": "d_exp_CO2", "repeat": 2, "n": 151, "n_real": 36, "n_perm": 10, "source_fits": 214, "sec_source": 66.0, "sec_total": 148.5}
+done featex:d_exp_CO2:2 149 s
+{"target": "d_exp_He", "repeat": 3, "n": 51, "n_real": 36, "n_perm": 10, "source_fits": 210, "sec_source": 74.7, "sec_total": 155.7}
+done featex:d_exp_He:3 156 s
+{"target": "d_exp_He", "repeat": 4, "n": 51, "n_real": 36, "n_perm": 10, "source_fits": 210, "sec_source": 67.3, "sec_total": 148.0}
+done featex:d_exp_He:4 148 s

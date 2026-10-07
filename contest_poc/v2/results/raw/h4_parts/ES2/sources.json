@@ -1,0 +1,29 @@
+{
+ "eligible": [
+  "10.1002/app.42304",
+  "10.1007/s10853-013-7341-6",
+  "10.1007/s10965-014-0571-8",
+  "10.1007/s40204-017-0071-0",
+  "10.1080/1539445x.2010.495630",
+  "10.1088/1757-899x/230/1/012043",
+  "10.1117/12.837918",
+  "D.D. Pise, B.B. Ahuja, S.M. Shendokar, Study of Process Para",
+  "FERN lab experiment data ",
+  "K. Castkova, J. Kastyl, D. Sobola, J. Petrus, E. Stast-, Str"
+ ],
+ "ret_sources": [
+  "10.1002/app.42304",
+  "10.1007/s10853-013-7341-6",
+  "10.1007/s10965-014-0571-8",
+  "10.1007/s40204-017-0071-0",
+  "10.1080/1539445x.2010.495630",
+  "10.1088/1757-899x/230/1/012043",
+  "10.1117/12.837918",
+  "D.D. Pise, B.B. Ahuja, S.M. Shendokar, Study of Process Para",
+  "FERN lab experiment data ",
+  "K. Castkova, J. Kastyl, D. Sobola, J. Petrus, E. Stast-, Str"
+ ],
+ "ret_note": "all eligible sources (dataset <= 1000 rows)",
+ "n_rows": 267,
+ "n_sources": 28
+}

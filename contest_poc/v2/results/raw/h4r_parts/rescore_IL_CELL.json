@@ -1,0 +1,1 @@
+{"dataset": "IL_CELL", "max_abs_diff_vs_main_draws": 4.980123685172089e-05, "n_eval_rows_with_nearcopy_in_training": 1, "n_rows_with_within_source_twin": 10, "n_rows_eligible": 611, "seconds": 2.6, "note": "max_abs_diff is vs the %.6g-rounded draws file; vs full-precision part files it is ~1e-15"}

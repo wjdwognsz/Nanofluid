@@ -1,0 +1,13 @@
+{
+ "n_rows": 3390,
+ "n_fail": 2594,
+ "n_sources": 115,
+ "ref_sizes": {
+  "H7b_DES": 1289,
+  "H7b_DES_refRT": 1023,
+  "H7b_DES_refNoOverlap": 1051
+ },
+ "ref_materials_also_in_DES_MP": 238,
+ "DES_MP_rows_whose_material_is_in_ref": 356,
+ "DES_MP_fail_rows_whose_material_is_in_ref": 77
+}

@@ -1,0 +1,11 @@
+dataset,source,n_rows,n_leak_mine,n_leak_h4,n_train_mine,n_train_h4,n_nearcopy_train_rows,n_heldout_rows_with_nearcopy,n_heldout_rows_with_Xdup_in_train,n_heldout_rows_with_Xdup_and_same_y_in_train,n_rows_in_repeated_key_within_source,n_rows_identical_key_and_y_within_source,n_rows_in_repeated_X_within_source
+ES2,10.1002/app.42304,9,0,0,258,258,0,0,0,0,0,0,0
+ES2,10.1007/s10853-013-7341-6,8,0,0,259,259,0,0,0,0,0,0,0
+ES2,10.1007/s10965-014-0571-8,18,0,0,249,249,0,0,0,0,2,0,2
+ES2,10.1007/s40204-017-0071-0,13,0,0,254,254,0,0,0,0,5,0,5
+ES2,10.1080/1539445x.2010.495630,12,0,0,255,255,0,0,0,0,6,0,6
+ES2,10.1088/1757-899x/230/1/012043,32,0,0,235,235,0,0,0,0,14,4,14
+ES2,10.1117/12.837918,56,0,0,211,211,0,0,0,0,27,3,27
+ES2,"D.D. Pise, B.B. Ahuja, S.M. Shendokar, Study of Process Para",9,0,0,258,258,0,0,0,0,0,0,0
+ES2,FERN lab experiment data ,25,0,0,242,242,0,0,0,0,24,0,24
+ES2,"K. Castkova, J. Kastyl, D. Sobola, J. Petrus, E. Stast-, Str",11,0,0,256,256,0,0,0,0,0,0,0

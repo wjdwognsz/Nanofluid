@@ -1,0 +1,1 @@
+{"dataset": "DES_ETA", "max_abs_diff_vs_main_draws": 4.963890832954121e-05, "n_eval_rows_with_nearcopy_in_training": 50, "n_rows_with_within_source_twin": 154, "n_rows_eligible": 5694, "seconds": 14.3, "note": "max_abs_diff is vs the %.6g-rounded draws file; vs full-precision part files it is ~1e-15"}

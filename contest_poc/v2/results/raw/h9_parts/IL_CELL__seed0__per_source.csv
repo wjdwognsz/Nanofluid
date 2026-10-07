@@ -1,0 +1,124 @@
+dataset,seed,fold,source,n_rows,method,covered,n_eval,width
+IL_CELL,0,0,"Green Chem., 2014, 16,1326",117,naive,77,117,14.586494229294521
+IL_CELL,0,0,"Green Chem., 2014, 16,1326",117,aware,111,117,23.418648148148158
+IL_CELL,0,0,"Green Chem., 2014, 16,1326",117,anchor,1008,1140,22.259575358632155
+IL_CELL,0,0,"Green Chem., 2014, 16,1326",117,aware_on_anchor_rows,1080,1140,23.418648148148158
+IL_CELL,0,0,"Green Chem., 2014, 16,1326",117,explore_offset_q_aware,1021,1140,23.418648148148158
+IL_CELL,0,1,"Macromolecules 2018, 51, 4158âˆ’4166",84,naive,40,84,11.997224342302657
+IL_CELL,0,1,"Macromolecules 2018, 51, 4158âˆ’4166",84,aware,69,84,21.01428264974934
+IL_CELL,0,1,"Macromolecules 2018, 51, 4158âˆ’4166",84,anchor,582,810,20.306045712640845
+IL_CELL,0,1,"Macromolecules 2018, 51, 4158âˆ’4166",84,aware_on_anchor_rows,667,810,21.01428264974934
+IL_CELL,0,1,"Macromolecules 2018, 51, 4158âˆ’4166",84,explore_offset_q_aware,602,810,21.01428264974934
+IL_CELL,0,2,"Macromolecules 2020, 53, 3284âˆ’3295",59,naive,28,59,14.116582221857934
+IL_CELL,0,2,"Macromolecules 2020, 53, 3284âˆ’3295",59,aware,46,59,21.205619343895556
+IL_CELL,0,2,"Macromolecules 2020, 53, 3284âˆ’3295",59,anchor,489,560,22.962385927398255
+IL_CELL,0,2,"Macromolecules 2020, 53, 3284âˆ’3295",59,aware_on_anchor_rows,439,560,21.205619343895556
+IL_CELL,0,2,"Macromolecules 2020, 53, 3284âˆ’3295",59,explore_offset_q_aware,479,560,21.205619343895556
+IL_CELL,0,3,A. Xu et al. / Journal of Molecular Liquids 197 (2014) 211â€“214,4,naive,4,4,13.46580029639648
+IL_CELL,0,3,A. Xu et al. / Journal of Molecular Liquids 197 (2014) 211â€“214,4,aware,4,4,22.393465975798627
+IL_CELL,0,3,"Macromol. Biosci. 2007, 7, 440â€“445",7,naive,6,7,13.46580029639648
+IL_CELL,0,3,"Macromol. Biosci. 2007, 7, 440â€“445",7,aware,7,7,22.393465975798627
+IL_CELL,0,3,Y. Zhang et al. / Carbohydrate Polymers 117 (2015) 666â€“672,49,naive,31,49,13.46580029639648
+IL_CELL,0,3,Y. Zhang et al. / Carbohydrate Polymers 117 (2015) 666â€“672,49,aware,46,49,22.393465975798627
+IL_CELL,0,3,Y. Zhang et al. / Carbohydrate Polymers 117 (2015) 666â€“672,49,anchor,396,460,21.76008501179863
+IL_CELL,0,3,Y. Zhang et al. / Carbohydrate Polymers 117 (2015) 666â€“672,49,aware_on_anchor_rows,431,460,22.393465975798627
+IL_CELL,0,3,Y. Zhang et al. / Carbohydrate Polymers 117 (2015) 666â€“672,49,explore_offset_q_aware,399,460,22.393465975798627
+IL_CELL,0,4,European Polymer Journal 92 (2017) 204â€“212,8,naive,8,8,14.173688275708106
+IL_CELL,0,4,European Polymer Journal 92 (2017) 204â€“212,8,aware,8,8,22.224105979216638
+IL_CELL,0,4,J Chem Technol Biotechnol 2009; 84: 1818â€“1827,2,naive,2,2,14.173688275708106
+IL_CELL,0,4,J Chem Technol Biotechnol 2009; 84: 1818â€“1827,2,aware,2,2,22.224105979216638
+IL_CELL,0,4,"New J. Chem., 2019,43, 4554-4561",5,naive,5,5,14.173688275708106
+IL_CELL,0,4,"New J. Chem., 2019,43, 4554-4561",5,aware,5,5,22.224105979216638
+IL_CELL,0,4,"RSC Adv., 2012, 2, 2476â€“2479",45,naive,39,45,14.173688275708106
+IL_CELL,0,4,"RSC Adv., 2012, 2, 2476â€“2479",45,aware,45,45,22.224105979216638
+IL_CELL,0,4,European Polymer Journal 92 (2017) 204â€“212,8,anchor,50,50,23.27273939194326
+IL_CELL,0,4,European Polymer Journal 92 (2017) 204â€“212,8,aware_on_anchor_rows,50,50,22.224105979216638
+IL_CELL,0,4,European Polymer Journal 92 (2017) 204â€“212,8,explore_offset_q_aware,50,50,22.224105979216638
+IL_CELL,0,4,"RSC Adv., 2012, 2, 2476â€“2479",45,anchor,412,420,23.27273939194326
+IL_CELL,0,4,"RSC Adv., 2012, 2, 2476â€“2479",45,aware_on_anchor_rows,420,420,22.224105979216638
+IL_CELL,0,4,"RSC Adv., 2012, 2, 2476â€“2479",45,explore_offset_q_aware,406,420,22.224105979216638
+IL_CELL,0,5,Baek et al. / Journal of Molecular Liquids 234 (2017) 111â€“116,12,naive,10,12,13.642387024781598
+IL_CELL,0,5,Baek et al. / Journal of Molecular Liquids 234 (2017) 111â€“116,12,aware,11,12,22.20484363380148
+IL_CELL,0,5,D.G. Raut et al. / Carbohydrate Polymers 130 (2015) 18â€“25,4,naive,4,4,13.642387024781598
+IL_CELL,0,5,D.G. Raut et al. / Carbohydrate Polymers 130 (2015) 18â€“25,4,aware,4,4,22.20484363380148
+IL_CELL,0,5,"Green Chem., 2009,11, 417-424",33,naive,28,33,13.642387024781598
+IL_CELL,0,5,"Green Chem., 2009,11, 417-424",33,aware,33,33,22.20484363380148
+IL_CELL,0,5,"Ind. Eng. Chem. Res. 2010, 49, 11809â€“11813",8,naive,6,8,13.642387024781598
+IL_CELL,0,5,"Ind. Eng. Chem. Res. 2010, 49, 11809â€“11813",8,aware,8,8,22.20484363380148
+IL_CELL,0,5,Journal of Molecular Liquids 279 (2019) 120â€“126,3,naive,2,3,13.642387024781598
+IL_CELL,0,5,Journal of Molecular Liquids 279 (2019) 120â€“126,3,aware,3,3,22.20484363380148
+IL_CELL,0,5,Baek et al. / Journal of Molecular Liquids 234 (2017) 111â€“116,12,anchor,85,90,21.732179152206584
+IL_CELL,0,5,Baek et al. / Journal of Molecular Liquids 234 (2017) 111â€“116,12,aware_on_anchor_rows,81,90,22.20484363380148
+IL_CELL,0,5,Baek et al. / Journal of Molecular Liquids 234 (2017) 111â€“116,12,explore_offset_q_aware,86,90,22.20484363380148
+IL_CELL,0,5,"Green Chem., 2009,11, 417-424",33,anchor,290,300,21.732179152206584
+IL_CELL,0,5,"Green Chem., 2009,11, 417-424",33,aware_on_anchor_rows,300,300,22.20484363380148
+IL_CELL,0,5,"Green Chem., 2009,11, 417-424",33,explore_offset_q_aware,291,300,22.20484363380148
+IL_CELL,0,5,"Ind. Eng. Chem. Res. 2010, 49, 11809â€“11813",8,anchor,50,50,21.732179152206584
+IL_CELL,0,5,"Ind. Eng. Chem. Res. 2010, 49, 11809â€“11813",8,aware_on_anchor_rows,50,50,22.20484363380148
+IL_CELL,0,5,"Ind. Eng. Chem. Res. 2010, 49, 11809â€“11813",8,explore_offset_q_aware,50,50,22.20484363380148
+IL_CELL,0,6,"Aust. J. Chem. 2019, 72, 55â€“60",6,naive,2,6,13.388265328007236
+IL_CELL,0,6,"Aust. J. Chem. 2019, 72, 55â€“60",6,aware,2,6,21.34111039338502
+IL_CELL,0,6,"Green Chem., 2010, 12, 268â€“275",32,naive,25,32,13.388265328007236
+IL_CELL,0,6,"Green Chem., 2010, 12, 268â€“275",32,aware,32,32,21.34111039338502
+IL_CELL,0,6,"New J. Chem., 2011, 35, 1596â€“1606",7,naive,3,7,13.388265328007236
+IL_CELL,0,6,"New J. Chem., 2011, 35, 1596â€“1606",7,aware,5,7,21.34111039338502
+IL_CELL,0,6,"Sci China Chem, 2016, 59: 1421â€“1429",13,naive,10,13,13.388265328007236
+IL_CELL,0,6,"Sci China Chem, 2016, 59: 1421â€“1429",13,aware,12,13,21.34111039338502
+IL_CELL,0,6,"Green Chem., 2010, 12, 268â€“275",32,anchor,289,290,22.862424050869162
+IL_CELL,0,6,"Green Chem., 2010, 12, 268â€“275",32,aware_on_anchor_rows,290,290,21.34111039338502
+IL_CELL,0,6,"Green Chem., 2010, 12, 268â€“275",32,explore_offset_q_aware,289,290,21.34111039338502
+IL_CELL,0,6,"Sci China Chem, 2016, 59: 1421â€“1429",13,anchor,92,100,22.862424050869162
+IL_CELL,0,6,"Sci China Chem, 2016, 59: 1421â€“1429",13,aware_on_anchor_rows,90,100,21.34111039338502
+IL_CELL,0,6,"Sci China Chem, 2016, 59: 1421â€“1429",13,explore_offset_q_aware,90,100,21.34111039338502
+IL_CELL,0,7,"Green Chem., 2008, 10, 696â€“705",31,naive,23,31,14.272613478224244
+IL_CELL,0,7,"Green Chem., 2008, 10, 696â€“705",31,aware,30,31,21.13367870280904
+IL_CELL,0,7,"Green Chem., 2012, 14, 304â€“307",15,naive,15,15,14.272613478224244
+IL_CELL,0,7,"Green Chem., 2012, 14, 304â€“307",15,aware,15,15,21.13367870280904
+IL_CELL,0,7,"Ind. Eng. Chem. Res. 2019, 58, 16009âˆ’16017",4,naive,4,4,14.272613478224244
+IL_CELL,0,7,"Ind. Eng. Chem. Res. 2019, 58, 16009âˆ’16017",4,aware,4,4,21.13367870280904
+IL_CELL,0,7,"J. Phys. Chem. B 2019, 123, 3994âˆ’4003",7,naive,7,7,14.272613478224244
+IL_CELL,0,7,"J. Phys. Chem. B 2019, 123, 3994âˆ’4003",7,aware,7,7,21.13367870280904
+IL_CELL,0,7,"New J. Chem., 2019,43, 2299-2306",2,naive,0,2,14.272613478224244
+IL_CELL,0,7,"New J. Chem., 2019,43, 2299-2306",2,aware,0,2,21.13367870280904
+IL_CELL,0,7,"Green Chem., 2008, 10, 696â€“705",31,anchor,279,280,22.414230012762477
+IL_CELL,0,7,"Green Chem., 2008, 10, 696â€“705",31,aware_on_anchor_rows,270,280,21.13367870280904
+IL_CELL,0,7,"Green Chem., 2008, 10, 696â€“705",31,explore_offset_q_aware,278,280,21.13367870280904
+IL_CELL,0,7,"Green Chem., 2012, 14, 304â€“307",15,anchor,120,120,22.414230012762477
+IL_CELL,0,7,"Green Chem., 2012, 14, 304â€“307",15,aware_on_anchor_rows,120,120,21.13367870280904
+IL_CELL,0,7,"Green Chem., 2012, 14, 304â€“307",15,explore_offset_q_aware,120,120,21.13367870280904
+IL_CELL,0,8,"ChemSusChem 2012, 5, 388 â€“ 391",28,naive,26,28,14.00797724611129
+IL_CELL,0,8,"ChemSusChem 2012, 5, 388 â€“ 391",28,aware,28,28,20.66125357470804
+IL_CELL,0,8,I. GrÃ¸ssereid et al. / Journal of Molecular Liquids 292 (2019) 111353,16,naive,4,16,14.00797724611129
+IL_CELL,0,8,I. GrÃ¸ssereid et al. / Journal of Molecular Liquids 292 (2019) 111353,16,aware,9,16,20.66125357470804
+IL_CELL,0,8,"Molecules 2020, 25, 3539",4,naive,4,4,14.00797724611129
+IL_CELL,0,8,"Molecules 2020, 25, 3539",4,aware,4,4,20.66125357470804
+IL_CELL,0,8,"Phys. Chem. Chem. Phys., 2015, 17, 32276--32282",10,naive,10,10,14.00797724611129
+IL_CELL,0,8,"Phys. Chem. Chem. Phys., 2015, 17, 32276--32282",10,aware,10,10,20.66125357470804
+IL_CELL,0,8,"ChemSusChem 2012, 5, 388 â€“ 391",28,anchor,250,250,22.31281455836638
+IL_CELL,0,8,"ChemSusChem 2012, 5, 388 â€“ 391",28,aware_on_anchor_rows,250,250,20.66125357470804
+IL_CELL,0,8,"ChemSusChem 2012, 5, 388 â€“ 391",28,explore_offset_q_aware,250,250,20.66125357470804
+IL_CELL,0,8,I. GrÃ¸ssereid et al. / Journal of Molecular Liquids 292 (2019) 111353,16,anchor,130,130,22.31281455836638
+IL_CELL,0,8,I. GrÃ¸ssereid et al. / Journal of Molecular Liquids 292 (2019) 111353,16,aware_on_anchor_rows,70,130,20.66125357470804
+IL_CELL,0,8,I. GrÃ¸ssereid et al. / Journal of Molecular Liquids 292 (2019) 111353,16,explore_offset_q_aware,130,130,20.66125357470804
+IL_CELL,0,8,"Phys. Chem. Chem. Phys., 2015, 17, 32276--32282",10,anchor,70,70,22.31281455836638
+IL_CELL,0,8,"Phys. Chem. Chem. Phys., 2015, 17, 32276--32282",10,aware_on_anchor_rows,70,70,20.66125357470804
+IL_CELL,0,8,"Phys. Chem. Chem. Phys., 2015, 17, 32276--32282",10,explore_offset_q_aware,70,70,20.66125357470804
+IL_CELL,0,9,"Biotechnology and Bioengineering, Vol. 112, No. 1, January, 2015",21,naive,21,21,14.074499538290238
+IL_CELL,0,9,"Biotechnology and Bioengineering, Vol. 112, No. 1, January, 2015",21,aware,21,21,20.695340710308372
+IL_CELL,0,9,Carbohydrate Polymers 229 (2020) 115594,11,naive,8,11,14.074499538290238
+IL_CELL,0,9,Carbohydrate Polymers 229 (2020) 115594,11,aware,9,11,20.695340710308372
+IL_CELL,0,9,"Green Chem., 2011, 13, 2719",2,naive,2,2,14.074499538290238
+IL_CELL,0,9,"Green Chem., 2011, 13, 2719",2,aware,2,2,20.695340710308372
+IL_CELL,0,9,"Green Chem., 2012, 14, 2922",6,naive,5,6,14.074499538290238
+IL_CELL,0,9,"Green Chem., 2012, 14, 2922",6,aware,6,6,20.695340710308372
+IL_CELL,0,9,"RSC Adv., 2012, 2, 8429â€“8438",19,naive,18,19,14.074499538290238
+IL_CELL,0,9,"RSC Adv., 2012, 2, 8429â€“8438",19,aware,19,19,20.695340710308372
+IL_CELL,0,9,"Biotechnology and Bioengineering, Vol. 112, No. 1, January, 2015",21,anchor,180,180,21.99237593531828
+IL_CELL,0,9,"Biotechnology and Bioengineering, Vol. 112, No. 1, January, 2015",21,aware_on_anchor_rows,180,180,20.695340710308372
+IL_CELL,0,9,"Biotechnology and Bioengineering, Vol. 112, No. 1, January, 2015",21,explore_offset_q_aware,180,180,20.695340710308372
+IL_CELL,0,9,Carbohydrate Polymers 229 (2020) 115594,11,anchor,80,80,21.99237593531828
+IL_CELL,0,9,Carbohydrate Polymers 229 (2020) 115594,11,aware_on_anchor_rows,69,80,20.695340710308372
+IL_CELL,0,9,Carbohydrate Polymers 229 (2020) 115594,11,explore_offset_q_aware,79,80,20.695340710308372
+IL_CELL,0,9,"RSC Adv., 2012, 2, 8429â€“8438",19,anchor,160,160,21.99237593531828
+IL_CELL,0,9,"RSC Adv., 2012, 2, 8429â€“8438",19,aware_on_anchor_rows,160,160,20.695340710308372
+IL_CELL,0,9,"RSC Adv., 2012, 2, 8429â€“8438",19,explore_offset_q_aware,160,160,20.695340710308372

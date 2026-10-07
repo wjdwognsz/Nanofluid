@@ -1,0 +1,42 @@
+{
+ "dataset": "DES_RHO",
+ "n": 6937,
+ "n_sources": 132,
+ "flags": {
+  "R1": 0,
+  "R1_y": 0,
+  "R1_T": 0,
+  "R2": 972,
+  "R2a": 18,
+  "R2b": 971,
+  "R3": 3923,
+  "R4": 64,
+  "R12": 972,
+  "any": 4858
+ },
+ "detail": {
+  "family": "DES_RHO",
+  "r4": {
+   "T": {
+    "mode": 298.15,
+    "n_sources_flagged": 10,
+    "n_rows_flagged": 64
+   }
+  },
+  "r1_y_range": [
+   "y_raw",
+   0.5,
+   3.0,
+   "density g/cm3"
+  ],
+  "r1_temp_cols": [
+   [
+    "T",
+    "K",
+    null
+   ]
+  ]
+ },
+ "leak_rows_total": 3982,
+ "sec": 119.2
+}

@@ -1,0 +1,1 @@
+{"dataset": "ES2", "max_abs_diff_vs_main_draws": 4.995421551523549e-06, "n_eval_rows_with_nearcopy_in_training": 0, "n_rows_with_within_source_twin": 7, "n_rows_eligible": 193, "seconds": 1.7, "note": "max_abs_diff is vs the %.6g-rounded draws file; vs full-precision part files it is ~1e-15"}

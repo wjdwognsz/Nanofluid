@@ -1,0 +1,17 @@
+DES_MP: within-source dedup {'n_rows_before': 3390, 'n_dropped': 1209, 'n_rows_after': 2181, 'n_sources_before': 115, 'n_sources_after': 115}
+  DES_MP/dedup RF seed 0 done (34s)
+  DES_MP/dedup RF seed 1 done (66s)
+  DES_MP/dedup RF seed 2 done (98s)
+  DES_MP/dedup RF seed 3 done (130s)
+  DES_MP/dedup RF seed 4 done (165s)
+  DES_MP/dedup GB seed 0 done (190s)
+  DES_MP/dedup GB seed 1 done (208s)
+  DES_MP/dedup GB seed 2 done (227s)
+  DES_MP/dedup GB seed 3 done (245s)
+  DES_MP/dedup GB seed 4 done (264s)
+  DES_MP/dedup KNN seed 0 done (264s)
+  DES_MP/dedup KNN seed 1 done (264s)
+  DES_MP/dedup KNN seed 2 done (264s)
+  DES_MP/dedup KNN seed 3 done (264s)
+  DES_MP/dedup KNN seed 4 done (264s)
+cv DES_MP/dedup ['RF', 'GB', 'KNN']: 265s

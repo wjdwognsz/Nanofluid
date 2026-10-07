@@ -1,0 +1,4 @@
+dataset,n,flag_R1,flag_R1_y,flag_R1_T,flag_R2,flag_R2a,flag_R2b,flag_R3,flag_R4,flag_R12,flag_any
+DES_RHO,4962,0,0,0,547,15,541,0,64,547,604
+DES_ETA,5533,28,28,0,233,6,231,0,172,233,403
+ES1,777,0,0,0,7,7,0,0,492,7,496

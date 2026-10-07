@@ -1,0 +1,16 @@
+{
+ "ledger_regression": {
+  "h1": {
+   "rows_before": 83,
+   "rows_after": 100,
+   "missing_after": 0,
+   "changed_value_ci_or_verdict": []
+  },
+  "h9": {
+   "rows_before": 53,
+   "rows_after": 85,
+   "missing_after": 0,
+   "changed_value_ci_or_verdict": []
+  }
+ }
+}

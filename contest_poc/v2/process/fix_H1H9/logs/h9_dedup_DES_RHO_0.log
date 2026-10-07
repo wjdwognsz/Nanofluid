@@ -1,0 +1,4 @@
+DES_RHO: within-source dedup {'n_rows_before': 6937, 'n_dropped': 54, 'n_rows_after': 6883, 'n_sources_before': 132, 'n_sources_after': 132}
+  DES_RHO seed 0 fold 0: q_naive 0.02426 q_aware 0.08741 q_anchor 0.07139 (16s)
+  DES_RHO seed 0 fold 1: q_naive 0.01474 q_aware 0.09201 q_anchor 0.09279 (40s)
+  DES_RHO seed 0 fold 2: q_naive 0.01492 q_aware 0.09032 q_anchor 0.08844 (64s)

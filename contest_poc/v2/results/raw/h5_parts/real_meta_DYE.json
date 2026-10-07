@@ -1,0 +1,31 @@
+{
+ "dataset": "DYE",
+ "n": 131,
+ "n_sources": 12,
+ "flags": {
+  "R1": 0,
+  "R1_y": 0,
+  "R1_T": 0,
+  "R2": 0,
+  "R2a": 0,
+  "R2b": 0,
+  "R3": 4,
+  "R4": 0,
+  "R12": 0,
+  "any": 4
+ },
+ "detail": {
+  "family": "DYE",
+  "r4": {},
+  "r1_y_range": null,
+  "r1_temp_cols": [
+   [
+    "T",
+    "C",
+    null
+   ]
+  ]
+ },
+ "leak_rows_total": 4,
+ "sec": 49.0
+}

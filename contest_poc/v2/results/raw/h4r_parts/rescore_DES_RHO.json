@@ -1,0 +1,1 @@
+{"dataset": "DES_RHO", "max_abs_diff_vs_main_draws": 0.0004964932090416596, "n_eval_rows_with_nearcopy_in_training": 479, "n_rows_with_within_source_twin": 90, "n_rows_eligible": 6795, "seconds": 19.0, "note": "max_abs_diff is vs the %.6g-rounded draws file; vs full-precision part files it is ~1e-15"}

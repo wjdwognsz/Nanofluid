@@ -1,0 +1,17 @@
+DYE: within-source dedup {'n_rows_before': 131, 'n_dropped': 0, 'n_rows_after': 131, 'n_sources_before': 12, 'n_sources_after': 12}
+  DYE/dedup RF seed 0 done (19s)
+  DYE/dedup RF seed 1 done (36s)
+  DYE/dedup RF seed 2 done (54s)
+  DYE/dedup RF seed 3 done (71s)
+  DYE/dedup RF seed 4 done (90s)
+  DYE/dedup GB seed 0 done (118s)
+  DYE/dedup GB seed 1 done (156s)
+  DYE/dedup GB seed 2 done (183s)
+  DYE/dedup GB seed 3 done (208s)
+  DYE/dedup GB seed 4 done (238s)
+  DYE/dedup KNN seed 0 done (238s)
+  DYE/dedup KNN seed 1 done (238s)
+  DYE/dedup KNN seed 2 done (238s)
+  DYE/dedup KNN seed 3 done (238s)
+  DYE/dedup KNN seed 4 done (238s)
+cv DYE/dedup ['RF', 'GB', 'KNN']: 238s

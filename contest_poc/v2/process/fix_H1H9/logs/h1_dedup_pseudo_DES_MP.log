@@ -1,0 +1,7 @@
+DES_MP: within-source dedup {'n_rows_before': 3390, 'n_dropped': 1209, 'n_rows_after': 2181, 'n_sources_before': 115, 'n_sources_after': 115}
+  pseudo DES_MP/dedup seed 0: rmse 23.2073 (10s)
+  pseudo DES_MP/dedup seed 1: rmse 23.1914 (20s)
+  pseudo DES_MP/dedup seed 2: rmse 23.0574 (30s)
+  pseudo DES_MP/dedup seed 3: rmse 22.9334 (41s)
+  pseudo DES_MP/dedup seed 4: rmse 23.0658 (50s)
+  pseudo DES_MP/dedup seed 5: rmse 23.1255 (60s)

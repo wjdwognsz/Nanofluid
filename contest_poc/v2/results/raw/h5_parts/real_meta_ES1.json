@@ -1,0 +1,47 @@
+{
+ "dataset": "ES1",
+ "n": 777,
+ "n_sources": 54,
+ "flags": {
+  "R1": 0,
+  "R1_y": 0,
+  "R1_T": 0,
+  "R2": 7,
+  "R2a": 7,
+  "R2b": 0,
+  "R3": 0,
+  "R4": 492,
+  "R12": 7,
+  "any": 496
+ },
+ "detail": {
+  "family": "ES1",
+  "r4": {
+   "rh": {
+    "mode": 45.0,
+    "n_sources_flagged": 33,
+    "n_rows_flagged": 432
+   },
+   "temperature_c": {
+    "mode": 20.0,
+    "n_sources_flagged": 6,
+    "n_rows_flagged": 166
+   }
+  },
+  "r1_y_range": [
+   "fiber_diameter_nm",
+   10.0,
+   50000.0,
+   "fiber diameter nm"
+  ],
+  "r1_temp_cols": [
+   [
+    "temperature_c",
+    "C",
+    "temperature_c_missing"
+   ]
+  ]
+ },
+ "leak_rows_total": 0,
+ "sec": 51.8
+}

@@ -1,0 +1,30 @@
+{
+ "dataset": "DES_MP",
+ "n": 3390,
+ "n_sources": 115,
+ "flags": {
+  "R1": 174,
+  "R1_y": 174,
+  "R1_T": 0,
+  "R2": 59,
+  "R2a": 0,
+  "R2b": 59,
+  "R3": 20,
+  "R4": 0,
+  "R12": 207,
+  "any": 227
+ },
+ "detail": {
+  "family": "DES_MP",
+  "r4": {},
+  "r1_y_range": [
+   "y_raw",
+   150.0,
+   500.0,
+   "melting temperature K"
+  ],
+  "r1_temp_cols": []
+ },
+ "leak_rows_total": 20,
+ "sec": 105.5
+}

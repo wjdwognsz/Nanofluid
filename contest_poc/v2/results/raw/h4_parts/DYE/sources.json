@@ -1,0 +1,17 @@
+{
+ "eligible": [
+  "Lab",
+  "[11]",
+  "[5]",
+  "[9]"
+ ],
+ "ret_sources": [
+  "Lab",
+  "[11]",
+  "[5]",
+  "[9]"
+ ],
+ "ret_note": "all eligible sources (dataset <= 1000 rows)",
+ "n_rows": 131,
+ "n_sources": 12
+}

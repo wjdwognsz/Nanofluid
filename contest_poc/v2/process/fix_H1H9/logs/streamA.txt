@@ -1,0 +1,8 @@
+15:55:03 h9 dedup ES1 seeds 0,1,2,3,4 rc=0 405s
+16:00:57 h9 dedup ES2 seeds 0,1,2,3,4 rc=0 354s
+16:07:42 h9 dedup DYE seeds 0,1,2,3,4 rc=0 405s
+16:12:05 h9 dedup IL_CELL seeds 0,1,2 rc=0 263s
+16:15:00 h9 dedup IL_CELL seeds 3,4 rc=0 175s
+16:19:58 h9 dedup DES_MP seeds 0,1 rc=0 298s
+16:24:58 h9 dedup DES_MP seeds 2,3 rc=0 300s
+16:27:34 h9 dedup DES_MP seeds 4 rc=0 156s

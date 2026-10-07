@@ -1,0 +1,12 @@
+DES_MP: within-source dedup {'n_rows_before': 3390, 'n_dropped': 1209, 'n_rows_after': 2181, 'n_sources_before': 115, 'n_sources_after': 115}
+  DES_MP seed 4 fold 0: q_naive 40.01 q_aware 87.28 q_anchor 67.49 (14s)
+  DES_MP seed 4 fold 1: q_naive 41.65 q_aware 81.49 q_anchor 65.33 (28s)
+  DES_MP seed 4 fold 2: q_naive 38.44 q_aware 90.12 q_anchor 72.61 (44s)
+  DES_MP seed 4 fold 3: q_naive 37.57 q_aware 81.12 q_anchor 61.2 (58s)
+  DES_MP seed 4 fold 4: q_naive 36.62 q_aware 85.32 q_anchor 67.51 (74s)
+  DES_MP seed 4 fold 5: q_naive 39.45 q_aware 77.93 q_anchor 61.13 (90s)
+  DES_MP seed 4 fold 6: q_naive 38.91 q_aware 83.28 q_anchor 65.86 (106s)
+  DES_MP seed 4 fold 7: q_naive 39.74 q_aware 81.58 q_anchor 62.44 (122s)
+  DES_MP seed 4 fold 8: q_naive 39.46 q_aware 85.54 q_anchor 61.96 (138s)
+  DES_MP seed 4 fold 9: q_naive 37.67 q_aware 84.08 q_anchor 64.78 (155s)
+DES_MP seed 4 done (155s)

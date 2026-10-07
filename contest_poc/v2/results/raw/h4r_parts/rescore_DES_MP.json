@@ -1,0 +1,1 @@
+{"dataset": "DES_MP", "max_abs_diff_vs_main_draws": 4.993473763192924e-05, "n_eval_rows_with_nearcopy_in_training": 27, "n_rows_with_within_source_twin": 2408, "n_rows_eligible": 3269, "seconds": 11.0, "note": "max_abs_diff is vs the %.6g-rounded draws file; vs full-precision part files it is ~1e-15"}

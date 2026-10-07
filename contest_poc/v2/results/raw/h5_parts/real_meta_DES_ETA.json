@@ -1,0 +1,42 @@
+{
+ "dataset": "DES_ETA",
+ "n": 5789,
+ "n_sources": 114,
+ "flags": {
+  "R1": 28,
+  "R1_y": 28,
+  "R1_T": 0,
+  "R2": 281,
+  "R2a": 6,
+  "R2b": 279,
+  "R3": 511,
+  "R4": 173,
+  "R12": 281,
+  "any": 957
+ },
+ "detail": {
+  "family": "DES_ETA",
+  "r4": {
+   "T": {
+    "mode": 298.15,
+    "n_sources_flagged": 18,
+    "n_rows_flagged": 173
+   }
+  },
+  "r1_y_range": [
+   "y_raw",
+   0.2,
+   10000000.0,
+   "viscosity cP"
+  ],
+  "r1_temp_cols": [
+   [
+    "T",
+    "K",
+    null
+   ]
+  ]
+ },
+ "leak_rows_total": 514,
+ "sec": 142.8
+}

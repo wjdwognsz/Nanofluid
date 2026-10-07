@@ -1,0 +1,30 @@
+{
+ "dataset": "ES2",
+ "n": 267,
+ "n_sources": 28,
+ "flags": {
+  "R1": 0,
+  "R1_y": 0,
+  "R1_T": 0,
+  "R2": 0,
+  "R2a": 0,
+  "R2b": 0,
+  "R3": 0,
+  "R4": 0,
+  "R12": 0,
+  "any": 0
+ },
+ "detail": {
+  "family": "ES2",
+  "r4": {},
+  "r1_y_range": [
+   "D",
+   10.0,
+   50000.0,
+   "fiber diameter nm"
+  ],
+  "r1_temp_cols": []
+ },
+ "leak_rows_total": 0,
+ "sec": 28.4
+}

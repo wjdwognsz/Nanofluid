@@ -1,0 +1,41 @@
+{
+ "naive": {
+  "coverage": 0.7121,
+  "mean_width": 0.65568,
+  "n_evals": 601
+ },
+ "aware": {
+  "coverage": 0.9002,
+  "mean_width": 1.05644,
+  "n_evals": 601
+ },
+ "anchor": {
+  "coverage": 0.8988,
+  "mean_width": 0.99082,
+  "n_evals": 4310
+ },
+ "aware_on_anchor_rows": {
+  "coverage": 0.9125,
+  "mean_width": 1.06056,
+  "n_evals": 4310
+ },
+ "aware8_on_anchor_rows": {
+  "coverage": 0.8956,
+  "mean_width": 1.01766,
+  "n_evals": 4310
+ },
+ "anchor_md": {
+  "coverage": 0.9467,
+  "mean_width": 1.65938,
+  "n_evals": 75
+ },
+ "aware_on_md_rows": {
+  "coverage": 0.8933,
+  "mean_width": 1.01117,
+  "n_evals": 75
+ },
+ "ratio_anchor_vs_aware_same_rows": 0.9342,
+ "ratio_aware8_vs_aware_same_rows": 0.9595,
+ "ratio_anchor_md_vs_aware_md_rows": 1.641,
+ "n_sources_with_md_rows": 5
+}
