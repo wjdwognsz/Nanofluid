@@ -1,0 +1,46 @@
+{
+ "frac_negative_transfer": 0.6080402010050251,
+ "S_proxy_corr": {
+  "n_pairs": 398,
+  "mean_per_target_spearman": 0.5580123527491948,
+  "auroc_detect_negative": 0.820380377198559,
+  "mean_gain_of_top1_selected": 0.17275201683647431,
+  "mean_gain_random_source": 0.0016196173432695888
+ },
+ "S_physics": {
+  "n_pairs": 398,
+  "mean_per_target_spearman": 0.14832378365457477,
+  "auroc_detect_negative": 0.6126297944479763,
+  "mean_gain_of_top1_selected": 0.01856391096194008,
+  "mean_gain_random_source": 0.0016196173432695888
+ },
+ "S_size": {
+  "n_pairs": 398,
+  "mean_per_target_spearman": 0.26036839910397397,
+  "auroc_detect_negative": 0.5978756092392457,
+  "mean_gain_of_top1_selected": 0.04345579552955391,
+  "mean_gain_random_source": 0.0016196173432695888
+ },
+ "S_coverage": {
+  "n_pairs": 398,
+  "mean_per_target_spearman": 0.19545805785870626,
+  "auroc_detect_negative": 0.5785786183513456,
+  "mean_gain_of_top1_selected": 0.07549539312856896,
+  "mean_gain_random_source": 0.0016196173432695888
+ },
+ "S_label_overlap_corr": {
+  "n_pairs": 294,
+  "mean_per_target_spearman": 0.29331869675193223,
+  "auroc_detect_negative": 0.7146892655367232,
+  "mean_gain_of_top1_selected": 0.008890929197885845,
+  "mean_gain_random_source": 0.014969148911809303
+ },
+ "S_overlap_frac": {
+  "n_pairs": 398,
+  "mean_per_target_spearman": 0.17852581177529192,
+  "auroc_detect_negative": 0.5492954015681288,
+  "mean_gain_of_top1_selected": 0.07549539312856896,
+  "mean_gain_random_source": 0.0016196173432695888
+ },
+ "mean_gain_oracle_best": 0.21530976595222587
+}
